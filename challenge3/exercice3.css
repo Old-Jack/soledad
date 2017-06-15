@@ -1,0 +1,37 @@
+img {
+height:305.172px;
+width:457.766px;
+}
+h2{
+	font-family: 'Playfair Display', serif;
+	font-size: 20px;
+	font-weight: bold;
+}
+p {
+	font-size: 15px;
+}
+h2, p {
+	color: black;
+	text-align: center;
+}
+
+h3{
+	padding-top: 20px;
+	text-align: center;
+	color: maroon;
+	font-size: 12px;
+}
+
+h4 {
+	text-align: center;
+	font-size: 15px;
+	color: grey;
+}
+
+i {
+	color: black;
+}
+ul {
+	text-align: center;
+	font-size: 15px;
+}
